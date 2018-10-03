@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538551235433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BDF4B574",
+    "lastKnownWriteTime" : 1538555310,
+    "last_content_update" : 1538555310721,
+    "path" : "~/Документы/pkg/strconc/man/insertConcAddin.Rd",
+    "project_path" : "man/insertConcAddin.Rd",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
