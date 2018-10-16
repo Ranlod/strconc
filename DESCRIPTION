@@ -12,3 +12,6 @@ Imports: base, rstudioapi
 URL: https://github.com/Ranlod/strconc
 BugReports: https://github.com/Ranlod/strconc/issues
 RoxygenNote: 6.1.0
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr

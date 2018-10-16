@@ -12,7 +12,7 @@ insertConcAddin()
 }
 %- maybe also 'usage' for other objects documented here.
 \details{
-%%  ~~ If necessary, more details than the description above ~~
+You can see how to use this feature \href{../doc/example.html}{here}.
 }
 \value{
 %%  ~Describe the value returned
