@@ -20,5 +20,5 @@ knitr::opts_chunk$set(
 
 Simple concatenation of two strings using the %+% operator. The package has an add-in for Rstudio, for a quick insert %+%.
 
-![](../using.gif)
+![](../picture/using.gif)
 
