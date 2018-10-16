@@ -4,7 +4,7 @@ Title: Simple concatenation of two strings
 Version: 0.1.0
 Author: Sergej Bulateckij
 Maintainer: Sergej Bulateckij <ranlod@yandex.ru>
-Description: Simple concatenation of two strings using the "%+%" operator. The package has an add-in for Rstudio, for a quick insert "%+%".
+Description: Simple concatenation of two strings using the "%+%" operator. The package has an add-in for RStudio, for a quick insert "%+%".
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
