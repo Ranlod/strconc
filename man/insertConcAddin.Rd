@@ -5,7 +5,7 @@
 Insert \%+\%
 }
 \description{
-Inserts "\%+\%" into text. This is needed for the "Insert \%+\%" button in Addins.
+Inserts "\%+\%" into text. This is needed for the "Insert \%+\%" button in Add-in.
 }
 \usage{
 insertConcAddin()
