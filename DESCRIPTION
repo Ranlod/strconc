@@ -1,7 +1,7 @@
 Package: strconc
 Type: Package
 Version: 0.1.0
-Title: Simple concatenation of two strings
+Title: Simple Concatenation of Two Strings
 Author: Sergej Bulateckij
 Maintainer: Sergej Bulateckij <ranlod@yandex.ru>
 Description: Simple concatenation of two strings using the "%+%" operator. The package has an add-in, for a quick insert "%+%".
