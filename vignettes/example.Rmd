@@ -18,7 +18,8 @@ knitr::opts_chunk$set(
 
 ## How to use
 
-Simple concatenation of two strings using the `%+%` operator. The package has an add-in for Rstudio, for a quick insert `%+%`. You can set hotkeys for the add-in, I recommend CTRL+/
+Simple concatenation of two strings using the `%+%` operator. The package has an add-in for RStudio, for a quick insert `%+%`. You can set hotkeys for the add-in, I recommend CTRL+/
 
 ![](../man/figures/using.gif)
+
 
