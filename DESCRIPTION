@@ -1,6 +1,6 @@
 Package: strconc
 Type: Package
-Version: 0.1.0
+Version: 0.1.1
 Title: Simple Concatenation of Two Strings
 Author: Sergej Bulateckij
 Maintainer: Sergej Bulateckij <ranlod@yandex.ru>
